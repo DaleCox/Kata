@@ -1,0 +1,12 @@
+{
+  "name": "PotterKata",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node Node_script.js",
+    "test": "mocha test.js"
+  },
+  "dependencies": {
+   
+  }
+}
